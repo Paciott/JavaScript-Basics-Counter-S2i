@@ -20,4 +20,4 @@ Il counter è stato costruito in modo tale da non poter scendere mai sotto lo 0.
 
 ## **Link**
 
-[Versione live del progetto - Netlify ]()
+[Versione live del progetto - Netlify ](https://s2i-js-basics-counter.netlify.app/)
